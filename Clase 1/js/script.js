@@ -114,11 +114,12 @@ alert('Bienvenido/a '+nombreUsuario);
 
 
 //Ejemplo de script completo aplicando todo lo visto:
-let edadActual = parseInt(prompt('Ingresa tu edad'));
-let edadEn5 = edadActual + 5;
-console.log(edadEn5)
-alert('En 5 años tendrás ' + edadEn5 + ' años.')
+//let edadActual = parseInt(prompt('Ingresa tu edad'));
+//let edadEn5 = edadActual + 5;
+//console.log(edadEn5)
+//alert('En 5 años tendrás ' + edadEn5 + ' años.')
 
 
 //De yapa les dejo un quiz para comprobar conocimientos!
 //https://forms.gle/B3DJdZB3tfVgHEte9
+
